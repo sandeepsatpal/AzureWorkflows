@@ -1,0 +1,29 @@
+Automate PDF Data Extraction to Azure SQL / Data Warehouse
+Posted yesterday
+Worldwide
+
+Summary
+We receive many PDFs from customers and need to automate data extraction and loading into our Azure data warehouse. We are looking for an Azure developer / data engineer / cloud architect with proven experience in Azure Logic Apps, Azure Functions, Azure Data Factory (ADF), Azure SQL Database, and Azure Synapse / Data Warehouse.
+
+Responsibilities:
+
+Use Azure AI Document Intelligence (Form Recognizer, OCR, Cognitive Services) to extract structured data from PDFs.
+
+Build automation workflows with Logic Apps, Functions, and Data Factory for ETL / ELT pipelines.
+
+Store results in Azure SQL Database / Synapse Analytics.
+
+Ensure performance, scalability, and data security.
+Skills required:
+
+Strong expertise in Azure cloud services (Logic Apps, Functions, Data Factory, AI, SQL).
+
+Experience with ETL pipelines, data integration, automation, and workflow orchestration.
+
+Knowledge of data warehousing, big data, and Azure DevOps CI/CD pipelines.
+
+Familiarity with API integration, blob storage, and event-driven architecture is a plus.
+
+
+Deliverable:
+End-to-end automated solution (PDF → Azure AI → Data Factory / Functions → Data Warehouse) with documentation and knowledge transfer.
